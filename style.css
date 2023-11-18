@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+h1{
+    color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    width: 500px;
+    height: 250px;
+}
